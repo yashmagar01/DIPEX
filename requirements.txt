@@ -1,0 +1,17 @@
+# Plant Disease Detection - Requirements
+# =======================================
+
+# Core ML Framework
+tensorflow>=2.10.0
+
+# Image Processing
+Pillow>=9.0.0
+
+# Data Manipulation
+numpy>=1.21.0
+
+# Visualization (optional, for debugging)
+matplotlib>=3.5.0
+
+# Progress Bars (optional)
+tqdm>=4.64.0
